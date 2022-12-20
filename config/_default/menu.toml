@@ -1,0 +1,23 @@
+[[social]]
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/hasban-fardani-393a68207/"
+
+[social.params]
+icon = "ig-brand"
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/hasban-fardani"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://twitter.com"
+
+[social.params]
+icon = "linkedin"
