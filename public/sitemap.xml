@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/page/archives/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>http://example.org/post/5-habits-of-largely-effective-and-hardworking-people/</loc>
+    <lastmod>2023-01-04T21:44:34+07:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2023-01-04T21:44:34+07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2023-01-04T21:44:34+07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/page/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/page/</loc>
