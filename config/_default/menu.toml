@@ -4,7 +4,7 @@ name = "Linkedin"
 url = "https://www.linkedin.com/in/hasban-fardani-393a68207/"
 
 [social.params]
-icon = "ig-brand"
+icon = "linkedin"
 
 [[social]]
 identifier = "github"
@@ -17,7 +17,7 @@ icon = "brand-github"
 [[social]]
 identifier = "instagram"
 name = "Instagram"
-url = "https://twitter.com"
+url = "https://www.instagram.com/hasban_fardani/"
 
 [social.params]
-icon = "linkedin"
+icon = "ig-brand"

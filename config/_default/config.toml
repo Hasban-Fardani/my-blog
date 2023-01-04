@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hasban-blog.vercel.app/'
 languageCode = 'en-us'
 title = 'Fardan Blog'
 theme = 'hugo-theme-stack'
+disqusShortname = "hasban-blog"

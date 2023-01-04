@@ -47,12 +47,18 @@ Tips for maintaining a positive mindset Then are some tips for maintaining a pos
 ## Conclusion:
 Recap of the 5 habits of highly effective and hardworking people
 In this article, we discussed the 5 habits of highly effective and hardworking people:
-Setting clear goals.
-Time management and prioritization.
-Communication and collaboration.
-Adaptability.
-Positive attitude and mindset.
- 
+
+1. Setting clear goals.
+2. Time management and prioritization.
+3. Communication and collaboration.
+4. Adaptability.
+5. Positive attitude and mindset.
+
+These habits are essential for success in any career and can help you achieve your goals and reach your full potential.
+
+Encouragement to adopt these habits in your own career
+
+We encourage you to adopt these habits in your own career to help you succeed and thrive. It may take time and effort to develop these habits, but the benefits will be well worth it. Remember, the journey to success is not always easy, but with hard work, discipline, and perseverance, you can achieve your goals and reach your full potential. 
  
 
 
