@@ -1,5 +1,7 @@
 baseURL = 'https://hasban-blog.vercel.app/'
-languageCode = 'en-us'
-title = 'Fardan Blog'
+languageCode = 'id-id'
+title = 'Blognya Hasban'
 theme = 'hugo-theme-stack'
 disqusShortname = "hasban-blog"
+
+defaultContentLanguage = 'id'

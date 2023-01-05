@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Fardan Blog</title>
+        <title>Pages on Blognya Hasban</title>
         <link>https://hasban-blog.vercel.app/page/</link>
-        <description>Recent content in Pages on Fardan Blog</description>
+        <description>Recent content in Pages on Blognya Hasban</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>id-id</language>
         <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hasban-blog.vercel.app/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>https://hasban-blog.vercel.app/page/archives/</link>

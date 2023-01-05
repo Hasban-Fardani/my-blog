@@ -4,6 +4,8 @@ date: {{ .Date }}
 draft: true
 comments: true
 readingTime: true
-keywords: 
+keywords: [] 
+tags: []
+categories: []
 ---
 
